@@ -14,7 +14,8 @@ Farzaam Ali</a></h1>
 	- <a href="https://github.com/FarzaamAli/real-estate-project" target="blank"> Real Estate Project</a>
  	- <a href="https://github.com/FarzaamAli/Inventory_System" target="blank"> Inventory System</a>
 
-- 🌱 I’m currently Working on Front End Development (React,Next.js Tailwind)
+- 🌱 I’m currently Working on Front End Development<br/>
+   (React,Next.js Tailwind)
 
 - 🤝 I’m available for freelancing.
 
